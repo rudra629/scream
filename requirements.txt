@@ -1,1 +1,8 @@
+tensorflow
+numpy
+librosa
 sounddevice
+soundfile
+scikit-learn
+tqdm
+scipy
