@@ -1,0 +1,17 @@
+# Ignore the virtual environment (huge folder!)
+.venv/
+__pycache__/
+
+# Ignore heavy datasets and zips
+*.zip
+bachao/
+real_static/
+raw_bachao/
+
+# Ignore temporary scripts
+tp.py
+calibarate.py
+record_noise.py
+
+# # Optional: Ignore old model versions (Keep only the best one)
+# audio_classification_model*.h5
